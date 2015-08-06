@@ -1,0 +1,21 @@
+Here is a list of things that ill be practicing.. it would be a cool exercise if we clone this, work on it and whatever, then pull it back into the master repo. If it works the way i think it should, itll just add what we wrote at the bottom of this document and boom!
+
+
+Git Commands:
+commit
+add
+merge
+branches
+push
+clone
+cherry picks
+repo syncs
+
+
+Shell Commands:
+installing software
+scripts
+building android
+
+
+Anything else?

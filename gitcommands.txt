@@ -1,0 +1,30 @@
+Here is some useful git commands and scripts:
+
+
+git branch "branch name" // to create branch
+
+git checkout 'branchname' //to switch branches
+
+git status
+
+git log // to check a log of your commits
+
+git rm 'filename' //this removes file from your repo
+
+After you create a file in working branch:
+git add ./
+git commit -m "commit message"
+git push
+
+If you create a new branch, edit files or whatever and want to merge the branch back to master:
+
+git checkout master
+git merge 'branchname'
+
+Tag manipulation:
+
+git tag 'tagname' // tags are for releases, they provide a downloadable file
+git push --tags //this creates the tags in the repo
+
+git tag -d 'tagname' //this is to delete a tag
+git push origin :refs/tags/'tagname' //this is to remove tag from repo
